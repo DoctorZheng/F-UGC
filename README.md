@@ -1,6 +1,6 @@
 # FUGC
 
-## Codes for Feedback Unilateral Grid-based Clustering
+## Codes for Feedback Unilateral Grid-based Clustering(simplify)
 
 - FUGC
 : C++ version of the FUGC
